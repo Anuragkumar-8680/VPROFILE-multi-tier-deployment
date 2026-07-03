@@ -1,0 +1,8 @@
+.vagrant/
+vagrant/**/.vagrant/
+target/
+*.war
+*.log
+*.class
+.idea/
+.vscode/
